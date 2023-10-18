@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riricardoMa
 - 👀 I’m interested in Any
-- 🌱 I’m currently learning Android 
+- 🌱 I’m currently working on Android 
 - 💞️ I’m looking to collaborate on Android
 - 📫 How to reach me mabx111@gmail.com
 
